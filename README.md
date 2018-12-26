@@ -1,5 +1,3 @@
-# sofcs
-
 # Sparse Optimization of Fractional-order Chaotic System
 
 - sofcs.m: Find the Optimzal Component Values for a Choas Circuit
