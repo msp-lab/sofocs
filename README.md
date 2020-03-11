@@ -1,6 +1,6 @@
-# Sparse Optimization for Fractional-Order Chaotic System Implementation
+# Sparse Optimization for Fractional-Order Chaotic System Implementation (SOFOCS)
 
-- sofcs.m: Find the Optimzal Component Values for a Choas Circuit
+- sofocs.m: Find the Optimzal Component Values for a Chaos Circuit
 
 - transfer_function.m: Transfer Function H(s) Curve for the Fractional-order Chaos Circuit Parameter Selection Problem
 
