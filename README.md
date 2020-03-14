@@ -24,21 +24,30 @@ The new approach is very helpful for implementing arbitrary fractional chaotic s
 
 - optim_plot.m: Plot the result of optimal values
 
+
 ## Quick Start
 
 ### Setting Parameters
+
 1. Change the parameters in main.m
+
 	q = 0.75;    % fractional order
+	
 	delta = 1;   % dB, The maximum discrepancy
+	
 	structure = 'Chain'; % Fractance structure {'Chain', 'Tree', 'Ladder'}
+	
 	N = 4;       % system order of franctance
 
 2. Change the threhold of uncertainty
+
 	MaxUC = 0.2;    
 
 ### Calculating
+
 	Run main.m for a quick example.
 
 ## Contact Author
+
 - Kunpeng Wang, e-mail: wkphnzk@163.com
 
